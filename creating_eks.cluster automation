@@ -1,0 +1,8 @@
+eksctl create cluster --name jhooq-test-cluster --version 1.17 --region eu-central-1 --nodegroup-name worker-nodes --node-type t2.micro --nodes 2
+
+--name jhooq-test-cluster        (can be any)
+--version 1.17                 (can be any/even latest)
+--region eu-central-1   (region where our aws acoount instance is running)
+--nodegroup-name worker-nodes
+--node-type t2.micro (any)
+--nodes 2
