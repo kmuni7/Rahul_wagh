@@ -36,3 +36,9 @@ variable "environment_name" {
 instance_type="t2.micro"
 
 environment_name ="stage" 
+
+4.And third create your stage.tfvars for production
+
+instance_type="t2.micro"
+
+environment_name ="production" 
