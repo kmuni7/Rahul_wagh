@@ -1,3 +1,12 @@
+
+For entire thing of variables code follow ____> https://jhooq.com/terraform-input-variables/
+
+for related video refer followng -----------> https://www.youtube.com/watch?v=AY8EsCRsQcU&list=PL7iMyoQPMtAOz187ezONf7pL8oGZRobYl&index=2
+
+
+
+
+___________________________________________________________________________________________________________________________________
 provider "aws" {
    region     = "eu-central-1"
    access_key = "AKIATQ37NXB2OBQHAALW"
